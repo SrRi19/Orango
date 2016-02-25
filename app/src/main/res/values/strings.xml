@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orango</string>
+    <string name="action_settings">Settings</string>
+    <string name="quem_voce" />
+    <string name="logo">Logo Orango</string>
+    <string name="hint_espaco">- - - - - - - - - - - - - - - - - - - - - - - - - - - -  - </string>
+</resources>
